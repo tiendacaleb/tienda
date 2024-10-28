@@ -1,0 +1,68 @@
+<! DOCTYPE html>
+    
+<html lang="en">
+   <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Tiendas Caleb</title>
+       <link rel="stylesheet" href="Estilos.css">
+   </head>
+   <body>
+   <header>
+       <nav>
+           <div class="container">
+              <div>
+                 <div class="Menu">
+                     <ul>
+                         <li>
+                             <a href="Caballeros.html">Caballeros</a>
+                         </li>
+                         <li>
+                             <a href="Damas.html">Damas</a>
+                         </li>
+                         <li>
+                             <a href="Ni%C3%B1os.html">Niños</a>
+                         </li>
+                         <li>
+                             <a href="#">Categorias</a>
+                         </li>
+                     </ul>
+                 </div>
+              </div>
+               </div>
+                </nav>
+                <div class="body">
+                    <div>
+                        <h4>L. 1,100</h4>
+                        <h1>Calzados Caleb</h1>
+                        <div class="rating">
+                         <i class="fas fa-star"></i>
+                         <i class="fas fa-star"></i>
+                         <i class="fas fa-star"></i>
+                         <i class="fas fa-star"></i>
+                         <i class="far fa-star"></i>
+                        </div>
+                        <p>Tiendas Caleb, ubicados en El Paraiso, El Paraiso, frente a la plaza Ramon Ignasio Diaz, ofrecemos servicio de calidad, buenos precios y variedad de productos.</p>
+                        <a href="#" class="btn">Añadir al carrito</a> 
+                    </div>
+                    <div>
+                        <img src="2.png" alt="Nike SuperRep Go" />
+                    </div> 
+                </div>
+                
+                <div class="footer">
+                    <div class="social">
+                       <a href="#"><i class="fab fa-facebook"></i></a>
+                       <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>  
+                    </div>
+                    <div class="watch">
+                       <div class="play-icon">
+                           <i class="fas fa fa-play"></i>
+                       </div>
+                    </div>
+                </div>
+   </header>
+   </body>
+    
+</html>
